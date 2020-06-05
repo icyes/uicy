@@ -1,16 +1,16 @@
 ### 安装
 
 ```javascript
-npm install vikingship --save
+npm install uicy --save
 ```
 
 ### 使用
 
 ```javascript
 // 加载样式
-import "vikingship/dist/index.css";
+import "uicy/dist/index.css";
 // 引入组件
-import { Button } from "vikingship";
+import { Button } from "uicy";
 ```
 
 ### 一些本地开发命令

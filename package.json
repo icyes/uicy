@@ -1,7 +1,7 @@
 {
   "name": "uicy",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "private": false,
   "description": "React components library",
   "author": "icecred",
   "main": "dist/index.js",
@@ -13,10 +13,10 @@
     "UI",
     "React"
   ],
-  "homepage": "http://vikingship.xyz",
+  "homepage": "https://github.com/icyes/uicy",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vikingmute/vikingship"
+    "url": "https://github.com/icyes/uicy"
   },
   "files": [
     "dist"
